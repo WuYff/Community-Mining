@@ -1,5 +1,5 @@
 # Community-Mining
 Community Mining in Chinese Calligraphy
-* The detail can be seen in the poster.
+**Please see the detail can in the Poster.pdf**
 * The data set is in ./data directory.
 * The algortihm is in ./algorithm directory.
